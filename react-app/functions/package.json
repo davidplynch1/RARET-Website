@@ -16,7 +16,7 @@
     "firebase-admin": "~7.0.0",
     "firebase-functions": "^2.3.0",
     "node-fetch": "^2.5.0",
-    "papaparse": "^4.6.3"
+    "papaparse": "^5.2.0"
   },
   "devDependencies": {
     "eslint": "^5.12.0",
