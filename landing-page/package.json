@@ -52,7 +52,7 @@
     "styled-components": "^4.2.0",
     "tls": "0.0.1",
     "w3-css": "^4.1.0",
-    "xlsx": "^0.14.1"
+    "xlsx": "^0.17.0"
   },
   "keywords": [
     "gatsby"
